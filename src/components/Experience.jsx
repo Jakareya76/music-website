@@ -3,7 +3,7 @@ import CardData from "./CardData";
 
 const Experience = () => {
   return (
-    <div className="flex flex-col items-center justify-start px-[5] bg-[#020917] pt-[18rem] pb-[8rem] mt-[-10rem] relative z-[2] rounded-b-[5rem]">
+    <div className="flex flex-col items-center justify-start px-[5] bg-[#020917] pt-[18rem] pb-[8rem] mt-[-10rem] relative z-[3] rounded-b-[5rem]">
       <img
         src={require("../assets/Path 318.png")}
         alt=""
