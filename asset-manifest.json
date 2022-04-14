@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/music-website/static/css/main.ad2b39d6.css",
-    "main.js": "/music-website/static/js/main.fc7ccedd.js",
+    "main.css": "/music-website/static/css/main.300fef25.css",
+    "main.js": "/music-website/static/js/main.bc0f30f1.js",
     "static/media/d1.png": "/music-website/static/media/d1.e2d1f81fb38e54ad201d.png",
     "static/media/backgraphics.png": "/music-website/static/media/backgraphics.e05d8e3687294dad4fdf.png",
     "static/media/p 1.png": "/music-website/static/media/p 1.81eb9c2ff77cfe135c80.png",
@@ -16,11 +16,11 @@
     "static/media/Group 2.png": "/music-website/static/media/Group 2.15c32f9651f4022159d9.png",
     "static/media/p 4.png": "/music-website/static/media/p 4.fcc6fc8fbc64a172a475.png",
     "index.html": "/music-website/index.html",
-    "main.ad2b39d6.css.map": "/music-website/static/css/main.ad2b39d6.css.map",
-    "main.fc7ccedd.js.map": "/music-website/static/js/main.fc7ccedd.js.map"
+    "main.300fef25.css.map": "/music-website/static/css/main.300fef25.css.map",
+    "main.bc0f30f1.js.map": "/music-website/static/js/main.bc0f30f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad2b39d6.css",
-    "static/js/main.fc7ccedd.js"
+    "static/css/main.300fef25.css",
+    "static/js/main.bc0f30f1.js"
   ]
 }
