@@ -11,7 +11,7 @@ const Download = () => {
         <span>
           <b>App Now!</b>
         </span>
-        <span className="text-[1rem] text-gray-400 px-[15rem] text-center mt-[1rem]">
+        <span className="text-[1rem] text-gray-400 lg:px-[15rem] text-center mt-[1rem]">
           Duis feugiat congue metus, ultrices vulputate nibh viverra eget.
           Vestibulum ullamcorper volutpat varius.
         </span>

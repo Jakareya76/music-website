@@ -4,7 +4,7 @@ const Search = () => {
   return (
     <div className="relative h-[65rem] px-[5rem] bg-[#001730] pt-[18rem] pb-[10rem] mt-[-15rem] z-[2] flex items-center justify-between rounded-b-[5rem]">
       {/* Left */}
-      <div className="flex-1">
+      <div className="flex-1 lg:block hidden">
         <img
           src={require("../assets/backgraphics.png")}
           alt=""

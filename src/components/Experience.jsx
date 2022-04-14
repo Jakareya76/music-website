@@ -9,7 +9,7 @@ const Experience = () => {
         alt=""
         className="w-[5rem]"
       />
-      <div className="sm:mt-7 flex flex-col items-center text-[2rem]">
+      <div className="sm:mt-7 flex flex-col items-center text-[2rem] text-center">
         <span>An Amazing App can Change Your Daily Life</span>
         <span>
           <b>Music Experience</b>

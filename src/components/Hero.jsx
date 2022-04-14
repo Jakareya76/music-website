@@ -5,21 +5,21 @@ const Hero = () => {
     <section className="bg-[#081730] flex items-center justify-between px-20 rounded-b-[5rem] w-full h-[35rem] relative z-[4]">
       {/* Left Side */}
       <div className="flex flex-col items-start justify-center h-full">
-        <h1 className="text-5xl my-1">Experience The</h1>
-        <p className="text-6xl font-bold my-2">Best Qulaity Music</p>
+        <h1 className="lg:text-5xl md:text-4xl sm:text-2xl my-1">Experience The</h1>
+        <p className="lg:text-6xl md:text-5xl sm:text-4xl font-bold my-2">Best Qulaity Music</p>
         <span className="text-sm text-gray-500 font-sans">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quae
           qui fugiat, <br />
           reiciendis laudantium a quibusdam eaque debitis fugit odio.
         </span>
         <div className="flex flex-col mt-8 ">
-          <div className="-ml-3">
+          <div className="lg:-ml-3 sm:-ml-3 -ml-16">
             <DownloadBtn />
           </div>
         </div>
       </div>
       {/* Right Side */}
-      <div className="images relative w-[50%]">
+      <div className="hidden lg:block lg:relative lg:w-[50%]">
         <img
           className="absolute top-[-8rem] left-[19rem]"
           src={require("../assets/backgraphics.png")}
