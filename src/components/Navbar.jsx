@@ -5,7 +5,7 @@ const Navbar = () => {
   const NavLinks = ["Home", "About", "Preformer", "Event Shedule"];
 
   return (
-    <header className="bg-[#081730] flex items-center justify-between px-[5rem] pt-[2.4rem] text-[0.8rem]">
+    <header className="bg-[#081730] text-white flex items-center justify-between px-[5rem] pt-[2.4rem] text-[0.8rem]">
       <img src={Logo} alt="Logo" className="w-10 h-10" />
       <nav className="flex">
         <ul className="flex w-full justify-between">
